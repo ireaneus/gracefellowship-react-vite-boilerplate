@@ -5,8 +5,7 @@
 :root {
   font-family: 'EB Garamond', serif;
 
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: rgb(245, 239, 227);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -14,7 +13,7 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
-h1 {
-  text-align: center;
+body {
+  margin: 0px;
 }
+
